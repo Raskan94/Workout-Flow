@@ -1,9 +1,0 @@
-{
-  "id": "workout-flow",
-  "name": "Workout Flow",
-  "version": "1.3.1",
-  "minAppVersion": "1.4.0",
-  "description": "Timer per allenamenti: fasi a tempo con passaggio automatico lavoro/riposo e beep, ed esercizi a ripetizioni che aspettano il tuo \"Fatto\".",
-  "author": "Tu",
-  "isDesktopOnly": false
-}
